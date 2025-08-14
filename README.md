@@ -25,7 +25,7 @@
 | Social Media App | Posts, likes, comments, notifications, real-time chat | React, Node.js, MongoDB, Socket.io | [Live](https://pingup-frontend-navy.vercel.app/) |
 | AI SaaS App | AI-powered SaaS platform for real-time predictions and analytics | PostgreSQL, React, Node.js, Express.js| [Live](https://quick-ai-tau.vercel.app/) |
 | QuickCart (E-commerce) | Full-featured eCommerce app with catalog, cart, checkout | Next.js, Node.js, MongoDB, Stripe | [Live](https://quick-cart-neon-two.vercel.app/) |
-| Car Rental Website | Book cars offline  & admin panel | React, Node.js, MongoDB | [Live](https://car-rental-swammick.vercel.app/) |
+| Car Rental Website | Book cars offline  & admin panel | React, Node.js, MongoDB, Express.js | [Live](https://car-rental-swammick.vercel.app/) |
 | Movie Ticket Booking | Book movie tickets with seat selection & payment integration | React, Node.js, MongoDB, Express.js | [Live](https://quickshow-lake.vercel.app/) |
 | Background Removal Website | Remove image background automatically using AI | React, Node.js, Express.js, MongoDB | [Live](https://bg-removal-frontend-pearl.vercel.app/) |
 | Chat App Website | Real-time chat app with rooms & private messaging | React, Node.js, Socket.io, MongoDB, Express.js | [Live](https://chat-app-frontend-weld-seven.vercel.app/) |
