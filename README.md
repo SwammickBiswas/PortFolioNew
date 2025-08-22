@@ -38,12 +38,13 @@
 | Imagify Website | AI-powered image editor and enhancer | React, Node.js, MongoDB, Express.js | [Live](https://imagify-frontend-swart.vercel.app/) |
 | Job Portal Website | Search, apply, and manage job listings with user authentication | React, Node.js, MongoDB, Express.js | [Live](https://job-portal-frontend-jet.vercel.app/) |
 | LMS Website | Learning Management System for courses, students, and instructors | React, Node.js, MongoDB, Express.js | [Live](https://lms-client-chi-ten.vercel.app/) |
+| AI chatbot website | Search chats, make payment for more chats with stripe(secure payment), Google gemini API key | React, Node.js, MongoDB, Express.js | [Live](https://quickgpt-five.vercel.app/) |
 
 
 ---
 
 ## 📈 DSA & Problem Solving
-- **Solved 368+ problems** on LeetCode  
+- **Solved 448+ problems** on LeetCode  
 - Focus Areas: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming  
 - Ready for **coding rounds in placements and interviews**
 
