@@ -22,7 +22,7 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|------------|-----------|
-| Social Media App | Posts, likes, comments, notifications, real-time chat | React, Node.js, MongoDB, Socket.io | [Live](https://pingup-frontend-navy.vercel.app/) |
+| Social Media App | Posts, likes, comments, notifications, real-time chat | React, Node.js, MongoDB, Express.js | [Live](https://pingup-frontend-navy.vercel.app/) |
 | AI SaaS App | AI-powered SaaS platform for real-time predictions and analytics | PostgreSQL, React, Node.js, Express.js| [Live](https://quick-ai-tau.vercel.app/) |
 | QuickCart (E-commerce) | Full-featured eCommerce app with catalog, cart, checkout | Next.js, Node.js, MongoDB, Stripe | [Live](https://quick-cart-neon-two.vercel.app/) |
 | Car Rental Website | Book cars offline  & admin panel | React, Node.js, MongoDB, Express.js | [Live](https://car-rental-swammick.vercel.app/) |
