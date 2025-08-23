@@ -3,7 +3,7 @@
 
 🚀 **About Me**
 - B.Tech CSE
-- Solved **448+ LeetCode problems**
+- Solved **500+ LeetCode problems**
 - Passionate about building **responsive, scalable, and modern web applications**
 - Tech Stack: **React, Next.js, Node.js, Express.js, Spring Boot, MongoDB, Tailwind CSS, PostgreSQL**
 
@@ -44,7 +44,7 @@
 ---
 
 ## 📈 DSA & Problem Solving
-- **Solved 448+ problems** on LeetCode  
+- **Solved 500+ problems** on LeetCode  
 - Focus Areas: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming  
 - Ready for **coding rounds in placements and interviews**
 
