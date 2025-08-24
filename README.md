@@ -53,6 +53,8 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/swammick-biswas-05ab59308/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/SwammickBiswas)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://github.com/SwammickBiswas/PortFolioNew)
+ 
 
 ---
 
