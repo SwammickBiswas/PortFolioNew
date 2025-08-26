@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Swammick Biswas
-### Full-Stack Web Developer | DSA Enthusiast | 18+ Projects Deployed  
+### Full-Stack Web Developer | DSA Enthusiast | 17+ Projects Deployed  
 
 🚀 **About Me**
 - B.Tech CSE
@@ -39,7 +39,7 @@
 | Job Portal Website | Search, apply, and manage job listings with user authentication | React, Node.js, MongoDB, Express.js | [Live](https://job-portal-frontend-jet.vercel.app/) |
 | LMS Website | Learning Management System for courses, students, and instructors | React, Node.js, MongoDB, Express.js | [Live](https://lms-client-chi-ten.vercel.app/) |
 | AI chatbot website | Search chats, make payment for more chats with stripe(secure payment), Google gemini API key | React, Node.js, MongoDB, Express.js | [Live](https://quickgpt-five.vercel.app/) |
-| URL Shortener	 | Full-stack URL shortening service with analytics | Spring Boot, React, MySQL, Docker | [Live](https://url-shortener-react-psi.vercel.app/) |
+
 
 ---
 
