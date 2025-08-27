@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Swammick Biswas
-### Full-Stack Web Developer | DSA Enthusiast | 17+ Projects Deployed  
+### Full-Stack Web Developer | DSA Enthusiast | 18+ Projects Deployed  
 
 🚀 **About Me**
 - B.Tech CSE
-- Solved **500+ LeetCode problems**
+- Solved **550+ LeetCode problems**
 - Passionate about building **responsive, scalable, and modern web applications**
 - Tech Stack: **React, Next.js, Node.js, Express.js, Spring Boot, MongoDB, Tailwind CSS, PostgreSQL, MySQL**
 
@@ -44,7 +44,7 @@
 ---
 
 ## 📈 DSA & Problem Solving
-- **Solved 500+ problems** on LeetCode  
+- **Solved 550+ problems** on LeetCode  
 - Focus Areas: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming  
 - Ready for **coding rounds in placements and interviews**
 
