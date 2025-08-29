@@ -5,16 +5,16 @@
 - B.Tech CSE
 - Solved **600+ LeetCode problems**
 - Passionate about building **responsive, scalable, and modern web applications**
-- Tech Stack: **React, Next.js, Node.js, Express.js, Spring Boot, MongoDB, Tailwind CSS, PostgreSQL, MySQL**
+- Tech Stack: **React, Next.js, Node.js, Express.js, Spring Boot, MongoDB, Tailwind CSS, PostgreSQL, MySQL, Spring Security**
 
 ---
 
 ## 🛠️ Skills
 
 **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript  
-**Backend:** Node.js, Express.js, Spring Boot, REST APIs  
+**Backend:** Node.js, Express.js, Spring Boot, REST APIs, Spring Security  
 **Database:** MongoDB, MySQL, PostgreSQL  
-**Tools & Platforms:** Git, GitHub, Vercel, Render, Postman  
+**Tools & Platforms:** Git, GitHub, Vercel, Render, Postman, Docker, Clerk, Inngest, ImageKit 
 
 ---
 
