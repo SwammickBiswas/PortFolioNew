@@ -58,4 +58,3 @@
 
 ---
 
-> ⚡ Fun fact: I’m aiming for **1000 LeetCode problems** and **20 full-stack projects** this year!
