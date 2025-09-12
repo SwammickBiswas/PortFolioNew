@@ -15,7 +15,6 @@
 **Backend:** Node.js, Express.js, Spring Boot, REST APIs, Spring Security  
 **Database:** MongoDB, MySQL, PostgreSQL   
 
-
 **Tools & Platforms:** Git, GitHub, Vercel, Render, Postman, Docker, Clerk, Inngest, ImageKit 
 
 ---
