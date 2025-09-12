@@ -13,7 +13,9 @@
 
 **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript  
 **Backend:** Node.js, Express.js, Spring Boot, REST APIs, Spring Security  
-**Database:** MongoDB, MySQL, PostgreSQL 
+**Database:** MongoDB, MySQL, PostgreSQL   
+
+
 **Tools & Platforms:** Git, GitHub, Vercel, Render, Postman, Docker, Clerk, Inngest, ImageKit 
 
 ---
