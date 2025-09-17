@@ -40,7 +40,7 @@
 | LMS Website | Learning Management System for courses, students, and instructors | React, Node.js, MongoDB, Express.js | [Live](https://lms-client-chi-ten.vercel.app/) |
 | AI chatbot website | Search chats, make payment for more chats with stripe(secure payment), Google gemini API key | React, Node.js, MongoDB, Express.js | [Live](https://quickgpt-five.vercel.app/) |
 | Url Shortener App | A Java Full Stack URL Shortener with React.js, Dockerized deployment on Render, and smooth UI animations using Framer Motion | Spring Boot, MySQL, Spring Security, React | [Live](https://url-shortener-react-psi.vercel.app/) |
-| Ecommerce-multivendor Website | Search Products, multiple option like normal user, plus user, admin, seller, Goggle Gemini Api Key for adding a product with name and description | Next.js, Prisma ORM, PostgreSQL | [Live](https://gocart-cyan.vercel.app/) |
+| AI Powered Ecommerce-multivendor Website | Search Products, multiple option like normal user, plus user, admin, seller, Goggle Gemini Api Key for adding a product with name and description | Next.js, Prisma ORM, PostgreSQL | [Live](https://gocart-cyan.vercel.app/) |
  
 ---
 
