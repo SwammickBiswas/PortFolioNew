@@ -3,7 +3,7 @@
 
 🚀 **About Me**
 - B.Tech CSE
-- Solved **1050+ LeetCode problems**
+- Solved **2000+ LeetCode problems**
 - Passionate about building **responsive, scalable, and modern web applications**
 - Tech Stack: **React, Next.js, Node.js, Express.js, Spring Boot, MongoDB, Tailwind CSS, PostgreSQL, MySQL, Spring Security**
 
@@ -41,11 +41,11 @@
 | AI chatbot website | Search chats, make payment for more chats with stripe(secure payment), Google gemini API key | React, Node.js, MongoDB, Express.js | [Live](https://quickgpt-five.vercel.app/) |
 | Url Shortener App | A Java Full Stack URL Shortener with React.js, Dockerized deployment on Render, and smooth UI animations using Framer Motion | Spring Boot, MySQL, Spring Security, React | [Live](https://url-shortener-react-psi.vercel.app/) |
 | Ecommerce-multivendor Website | Search Products, multiple option like normal user, plus user, admin, seller, Goggle Gemini Api Key for adding a product with name and description | Next.js, Prisma ORM, PostgreSQL | [Live](https://gocart-cyan.vercel.app/) |
-
+ 
 ---
 
 ## 📈 DSA & Problem Solving
-- **Solved 1050+ problems** on LeetCode  
+- **Solved 2000+ problems** on LeetCode  
 - Focus Areas: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Sliding Window
 - Ready for **coding rounds in placements and interviews**
 
