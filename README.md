@@ -45,7 +45,7 @@
 | **URL Shortener**              | Java Full Stack + Dockerized deployment                          | Spring Boot, MySQL, React           | [Live](https://url-shortener-react-psi.vercel.app/)      |
 | **AI Ecommerce Multivendor**   | AI-powered product upload (Gemini API) + NeonDB                  | Next.js, Prisma, PostgreSQL         | [Live](https://gocart-cyan.vercel.app/)                  |
 | **Grocery Website**            | Online grocery shopping                                          | MERN Stack                          | [Live](https://greencart-five.vercel.app/)               |
-| **Ecommerce Website**          | Multi-category online shopping                                   | MERN Stack                          | [Live](https://ecommerce-frontend-nine-flax.vercel.app/) |
+| **Basic E-commerce Store**     | Multi-category online shopping                                   | MERN Stack                          | [Live](https://ecommerce-frontend-nine-flax.vercel.app/) |
 
 ---
 
