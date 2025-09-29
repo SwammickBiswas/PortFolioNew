@@ -16,8 +16,8 @@
 ## 🛠️ Skills
 
 **Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript  
-**Backend:** Node.js, Express.js, NestJS, Spring Boot, REST APIs, GraphQL, Spring Security  
-**Databases:** MongoDB, MySQL, PostgreSQL, NeonDB, SQLite, Prisma ORM  
+**Backend:** Node.js, Express.js, NestJS, Spring Boot, REST APIs, Spring Security  
+**Databases:** MongoDB, MySQL, PostgreSQL, NeonDB, Prisma ORM  
 **DevOps & Tools:** Docker, Git, GitHub, Vercel, Render, Postman, Sentry, Clerk, Inngest, Stripe, ImageKit, Cloudinary  
 **AI/ML:** Google Gemini API, Clipdrop API
 
