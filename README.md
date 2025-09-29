@@ -29,7 +29,7 @@
 | ------------------------------ | ---------------------------------------------------------------- | ----------------------------------- | -------------------------------------------------------- |
 | **Social Media App**           | Posts, likes, notifications, chat                                | React, Node.js, MongoDB, Express.js | [Live](https://pingup-frontend-navy.vercel.app/)         |
 | **AI SaaS App**                | Multi-AI tools suite (text + image) using Gemini & Clipdrop APIs | PostgreSQL, React, Node.js          | [Live](https://quick-ai-tau.vercel.app/)                 |
-| **QuickCart (E-commerce)**     | Multi-vendor eCommerce with Stripe                               | Next.js, Node.js, MongoDB           | [Live](https://quick-cart-neon-two.vercel.app/)          |
+| **QuickCart (E-commerce)**     | ECommerce with Stripe and Next.js                                | Next.js, Node.js, MongoDB           | [Live](https://quick-cart-neon-two.vercel.app/)          |
 | **Car Rental Website**         | Book cars + Manage Cars                                          | React, Node.js, MongoDB             | [Live](https://car-rental-swammick.vercel.app/)          |
 | **Movie Ticket Booking**       | Seat selection, Clerk auth, Stripe payments, Inngest jobs        | MERN Stack                          | [Live](https://quickshow-lake.vercel.app/)               |
 | **Background Removal Website** | AI image background remover                                      | MERN Stack                          | [Live](https://bg-removal-frontend-pearl.vercel.app/)    |
