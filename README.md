@@ -46,6 +46,7 @@
 | **AI Ecommerce Multivendor**   | AI-powered product upload (Gemini API) + NeonDB                  | Next.js, Prisma, PostgreSQL         | [Live](https://gocart-cyan.vercel.app/)                  |
 | **Grocery Website**            | Online grocery shopping                                          | MERN Stack                          | [Live](https://greencart-five.vercel.app/)               |
 | **Basic E-commerce Store**     | Multi-category online shopping                                   | MERN Stack                          | [Live](https://ecommerce-frontend-nine-flax.vercel.app/) |
+| **AI Resume Builder**          | Make Resume with Google Gemini AI                                | MERN Stack                          | [Live](https://resume-client-eta.vercel.app/)            |
 
 ---
 
