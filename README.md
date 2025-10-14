@@ -7,7 +7,7 @@
 ## 💡 About Me
 
 - 🎓 B.Tech CSE (7th Semester)
-- 🧑‍💻 Solved **3700+ LeetCode problems** (Global Rank under 500)
+- 🧑‍💻 Solved **3700+ LeetCode problems** (Global Rank under 10)
 - ⚡ Passionate about building **production-ready SaaS apps** with real payments, AI integrations, and DevOps
 - 🔥 Tech Stack: **MERN, PERN, Java Full Stack, DevOps**
 
