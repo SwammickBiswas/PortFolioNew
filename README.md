@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Swammick Biswas
 
-### 🚀 Full-Stack Web Developer | DSA Enthusiast | 19+ Deployed Projects
+### 🚀 Full-Stack Web Developer | DSA Enthusiast | 20+ Deployed Projects
 
 ---
 
 ## 💡 About Me
 
 - 🎓 B.Tech CSE (7th Semester)
-- 🧑‍💻 Solved **2500+ LeetCode problems** (Global Rank under 500)
+- 🧑‍💻 Solved **3700+ LeetCode problems** (Global Rank under 500)
 - ⚡ Passionate about building **production-ready SaaS apps** with real payments, AI integrations, and DevOps
 - 🔥 Tech Stack: **MERN, PERN, Java Full Stack, DevOps**
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 📈 DSA Mastery (2500+ LeetCode)
+## 📈 DSA Mastery (3700+ LeetCode)
 
 ✅ **Core Patterns Mastered:**
 
