@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Swammick Biswas
 
-### 🚀 Full-Stack Web Developer | DSA Enthusiast | 20+ Deployed Projects
+### 🚀 Full-Stack Web Developer | DSA Enthusiast | 21+ Deployed Projects
 
 ---
 
